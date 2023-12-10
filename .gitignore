@@ -1,4 +1,4 @@
 node_modules/
-Z
-.env
-artifacts
+[z]
+[.env]
+[artifacts]
